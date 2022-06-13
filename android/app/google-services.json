@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "462864091624",
+    "project_id": "flash-chat-f5438",
+    "storage_bucket": "flash-chat-f5438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462864091624:android:ccfa0c5083ba7b346b3c5d",
+        "android_client_info": {
+          "package_name": "com.bishalkafle.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462864091624-j8d7dcebejf5u8n097asse2iodv4a415.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWlLz4vhhe9FGX9P6RjXTJe5EgD2e-aS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462864091624-j8d7dcebejf5u8n097asse2iodv4a415.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
